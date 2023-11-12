@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @semajssor (James ROss) 32 years old Canadian currently living in Switzerland.
+- 👋 Hi, I’m @semajssor (James ROss) 34 years old Canadian currently living in Switzerland.
 - 👀 I’m interested in Full-Stack Developer. Just started my studies, but eager to move forward.
 - 🌱 I’m currently learning at KnowledgeHut upGrad (bootcamp).
 
