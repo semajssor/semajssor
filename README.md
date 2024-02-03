@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="gif of a man coding" src="https://64.media.tumblr.com/ba114d240ed9d19e927a725cc599b038/tumblr_o8ol0qfp3d1r4gsiio1_1280.gif">
+  <img alt="gif of a man coding" src="https://64.media.tumblr.com/ba114d240ed9d19e927a725cc599b038/tumblr_o8ol0qfp3d1r4gsiio1_1280.gif" style="width: 50%; height: auto;">
   <p align="center">Gif by <a href="https://pixel-art-gallery.tumblr.com/image/146052666054">pixel-art-gallery.tumblr.com</a> on <a href="https://www.pinterest.ca/pin/380483868505781309/">Pinterest</a></p>
 </div>
 
