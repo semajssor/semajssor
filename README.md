@@ -57,7 +57,7 @@
 
 <h2 align="center">:trophy: My Stats :trophy:</h2>
   <div align="center">
-    <img alt="James' GitHub stats" src="https://github-readme-stats.vercel.app/api?username=semajssor">
+    <img alt="James' GitHub stats" src="https://github-readme-stats.vercel.app/api?username=semajssor&show_icons=true&theme=github_dark_dimmed">
   </div>
 <!---
 semajssor/semajssor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
