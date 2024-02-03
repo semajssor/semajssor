@@ -30,7 +30,7 @@
 <h2 align="center">:chart_with_upwards_trend: My Skills in Progress :chart_with_upwards_trend:</h2>
   <div align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,nodejs,vue,babel,css,html,js,python,git,github" />
+    <img src="https://skillicons.dev/icons?i=angular,react,nodejs,vue,express,babel,css,html,js,python,git,github" />
     </a>
   </div>
 <br>
