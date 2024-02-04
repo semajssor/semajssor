@@ -20,8 +20,8 @@
 
 <h2 align="center">:man_student: My Programming Schools :man_student:</h2>
   <p align="center">
-    <img alt="KnowledgeHut Badge" src="https://img.shields.io/badge/KnowledgeHut-c309db?style=flat-square&logo=https://i.ibb.co/FW5rCwP/channels4-profile-removebg-preview.png&logoWidth=100">
-    <img alt="Datacamp Badge" src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860">
+    <img alt="KnowledgeHut Badge" src="https://img.shields.io/badge/KnowledgeHut-c309db?style=for-the-badge&logo=https://i.ibb.co/FW5rCwP/channels4-profile-removebg-preview.png&logoWidth=100">
+   <!-- <img alt="Datacamp Badge" src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860"> -->
     <img alt="FreeCodeCamp Badge" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green">
     <img alt="Udemy Badge" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white">
   </p>
