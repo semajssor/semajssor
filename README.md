@@ -5,17 +5,19 @@
 
 <h2 align="center">:raising_hand_man: A little bit about me :raising_hand_man:</h2>
 
-  Hi :wave:, I’m @semajssor (James Ross) a 34 years old Canadian currently living in Switzerland. <br>
+  Hi :wave:, I’m @semajssor (James Ross) a 35 years old Canadian currently living in Switzerland. <br>
 <br>
-  👀  Just started my journey in Full-Stack Developement a few months ago, but eager to move forward.<br>
+  👀  I started my journey in Full-Stack Developement almost a year ago, but eager to move forward.<br>
 <br>
-  :man_technologist: I’m currently learning at KnowledgeHut upGrad (bootcamp). I'm also doing UDEMY classes (Zero to Mastery: The Complete Web Developer 2023). After, I'll do also many more projects to sharpen my knowledge<br>
+  :man_technologist: I’m currently learning with KnowledgeHut upGrad (bootcamp), UDEMY classes, and Zero to Mastery (ZTM). After, I'll do also many more projects to sharpen my knowledge<br>
 <br>
 🔉 I'm speaking
 * French
 * English
 * German
-* Turkish (In Progress) ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
+* A bit of Italian
+* A bit of Spanish
+* çok biraz Turkish ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
 <br>
 
 <h2 align="center">:man_student: My Programming Schools :man_student:</h2>
@@ -24,13 +26,15 @@
    <!-- <img alt="Datacamp Badge" src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860"> -->
     <img alt="FreeCodeCamp Badge" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green">
     <img alt="Udemy Badge" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white">
+    <img alt="ZTM Badge" src="https://img.shields.io/badge/ZTM-32de88?style=for-the-badge&logo=https://i.ibb.co/v1SJdws/35373879-removebg-preview.png">
+
   </p>
 <br>
 
 <h2 align="center">:chart_with_upwards_trend: My Skills in Progress :chart_with_upwards_trend:</h2>
   <div align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,nodejs,vue,express,babel,css,html,js,python,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,angular,nodejs,vue,express,postgres,postman,babel,git,github,vscode" />
     </a>
   </div>
 <br>
