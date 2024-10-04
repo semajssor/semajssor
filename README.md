@@ -5,9 +5,9 @@
 
 <h2 align="center">:raising_hand_man: A little bit about me :raising_hand_man:</h2>
 
-  Hi :wave:, I’m @semajssor (James Ross) a 35 years old Canadian currently living in Switzerland. <br>
+  Hi :wave:, I’m @semajssor (James Ross) a 35 years old Canadian currently living in Poland. <br>
 <br>
-  👀  I started my journey in Full-Stack Developement almost a year ago, but eager to move forward.<br>
+  👀  I started my journey in Full-Stack Developement a year ago, but eager to move forward.<br>
 <br>
   :man_technologist: I’m currently learning with KnowledgeHut upGrad (bootcamp), UDEMY classes, and Zero to Mastery (ZTM). After, I'll do also many more projects to sharpen my knowledge<br>
 <br>
@@ -17,7 +17,8 @@
 * German
 * A bit of Italian
 * A bit of Spanish
-* çok biraz Turkish ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
+* çok biraz Türkçe
+* A bit of Polish
 <br>
 
 <h2 align="center">:man_student: My Programming Schools :man_student:</h2>
