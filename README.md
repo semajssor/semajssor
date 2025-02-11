@@ -9,7 +9,7 @@
 <br>
   👀  I started my journey in Full-Stack Developement a year ago, but eager to move forward.<br>
 <br>
-  :man_technologist: I’m currently learning with KnowledgeHut upGrad (bootcamp), UDEMY classes, and Zero to Mastery (ZTM). After, I'll do also many more projects to sharpen my knowledge<br>
+  :man_technologist: I’m currently learning with Zero to Mastery (ZTM). After, I'll do also many more projects to sharpen my knowledge<br>
 <br>
 🔉 I'm speaking
 * French
