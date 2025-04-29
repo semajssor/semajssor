@@ -17,7 +17,7 @@
 * German
 * A bit of Italian
 * A bit of Spanish
-* çok biraz Türkçe
+* A bit of Turkish
 * A bit of Polish
 <br>
 
