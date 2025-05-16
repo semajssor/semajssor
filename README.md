@@ -64,6 +64,12 @@
   <div align="center">
     <img alt="James' GitHub stats" src="https://github-readme-stats.vercel.app/api?username=semajssor&show_icons=true&theme=github_dark_dimmed">
   </div> -->
+<br>
+<br>
+<div align="center">
+  <a href="https://app.daily.dev/semajssor" ><img src="https://api.daily.dev/devcards/v2/dvppcgF8RGkwa5iRxM79b.png?type=wide&r=70g" width="450" alt="James Ross's Dev Card"/></a>
+</div>
+
 <!---
 semajssor/semajssor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
