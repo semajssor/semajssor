@@ -19,6 +19,7 @@
 * A bit of Spanish
 * A bit of Turkish
 * A bit of Polish
+* A bit of Korean
 <br>
 
 <h2 align="center">:man_student: My Programming Schools :man_student:</h2>
